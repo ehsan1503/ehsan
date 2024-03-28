@@ -1,4 +1,4 @@
 import os
 
 r = os.environ['TOKEN']
-print("r")
+print(r)
