@@ -33,5 +33,5 @@ jobs:
       - name: Run Python script
         run: python3 143.py
         env:
-          TOEKN: ${{ secrets.TOEKN }}
+          TOKEN: ${{ secrets.TOKEN }}
         
