@@ -28,3 +28,7 @@ jobs:
       # Runs a single command using the runners shell
       - name: Run a one-line script
         run: echo Im Lilly and im Krayotet!
+
+      # Runs the Python script 143.py
+      - name: Run Python script
+        run: python3 143.py
